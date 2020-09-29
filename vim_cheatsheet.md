@@ -21,3 +21,14 @@
 `:tabs` list all the open tabs  
 `:tabclose` close a single tab  
 `:tabonly` close all tabs except the current one  
+
+## Vim Session
+
+Workflow:
+* Open any number of tabs you wish to work with
+* From any tab, enter command mode
+* Type `:mksession <session_name>.vim` and hit enter
+* Your current session of open tabs will be stored in a file named <session_name>.vim
+* To restore a session, close all tabs and Vim
+* Either start vim with your session using : `$ vim -S <session_name>.vim` or open Vim with any other file and enter command mode to type: `:source <session_name>.vim` 
+* If you change any session tabs (close/open new), you can save that back using : `:mks!` while you are in the session
