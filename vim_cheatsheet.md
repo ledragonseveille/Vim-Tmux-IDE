@@ -24,6 +24,8 @@
 
 ## Vim Session
 
+Ref : https://www.freecodecamp.org/news/learn-linux-vim-basic-features-19134461ab85/
+
 Workflow:
 * Open any number of tabs you wish to work with
 * From any tab, enter command mode
