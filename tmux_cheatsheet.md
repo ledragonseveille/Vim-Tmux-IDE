@@ -14,6 +14,9 @@ Default prefix key: \<Ctrl-b\>
 
 `PREFIX`+`c` to create a new window  
 `PREFIX`+`,` to rename a window  
+
+#### Navigation
+
 `PREFIX`+`n` to jump to next window  
 `PREFIX`+`p` to jump to previous window  
 `PREFIX`+`1` or `2` (etc.) to navigate via window's index  
@@ -27,3 +30,9 @@ Default prefix key: \<Ctrl-b\>
 `PREFIX`+`x` to kill panes  
 `PREFIX`+`%` to split window horizontally  
 `PREFIX`+`"` to split window vertically  
+
+#### Navigation
+
+`PREFIX`+`;` to move to the previously active pane  
+`PREFIX`+`UP` or `DOWN` or `RIGHT` or `LEFT` to change to the pane above, below, to the right or to the left of the current pane  
+`PREFIX`+`o` to select the next pane in the current window  
