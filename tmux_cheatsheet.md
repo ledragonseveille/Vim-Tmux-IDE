@@ -36,3 +36,4 @@ Default prefix key: \<Ctrl-b\>
 `PREFIX`+`;` to move to the previously active pane  
 `PREFIX`+`UP` or `DOWN` or `RIGHT` or `LEFT` to change to the pane above, below, to the right or to the left of the current pane  
 `PREFIX`+`o` to select the next pane in the current window  
+`PREFIX` + `PAGEUP` to be able to scroll the pane history (then PAGEUP or PAGEDOWN, and ESC to quit the mode)  
