@@ -34,3 +34,7 @@ Workflow:
 * To restore a session, close all tabs and Vim
 * Either start vim with your session using : `$ vim -S <session_name>.vim` or open Vim with any other file and enter command mode to type: `:source <session_name>.vim` 
 * If you change any session tabs (close/open new), you can save that back using : `:mks!` while you are in the session
+
+## Misc
+
+When you need to return temporarily to the shell when editing a file, instead of exiting vim, just do `CTRL+z` (in command mode), then `fg` when you want to go back into vim! :-)
