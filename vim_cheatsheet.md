@@ -38,3 +38,15 @@ Workflow:
 ## Misc
 
 When you need to return temporarily to the shell when editing a file, instead of exiting vim, just do `CTRL+z` (in command mode), then `fg` when you want to go back into vim! :-)
+
+## Resources
+
+### Web sites
+
+[Vi improved](https://www.vi-improved.org)
+
+### Videos
+
+[Vim as an IDE](https://www.youtube.com/watch?v=Gs1VDYnS-Ac)  
+[How to stop using Vim like a pig](https://www.youtube.com/watch?v=D2B3YI_d6HA)
+
