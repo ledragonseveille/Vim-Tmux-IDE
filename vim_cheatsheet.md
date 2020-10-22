@@ -48,5 +48,6 @@ When you need to return temporarily to the shell when editing a file, instead of
 ### Videos
 
 [Vim as an IDE](https://www.youtube.com/watch?v=Gs1VDYnS-Ac)  
-[How to stop using Vim like a pig](https://www.youtube.com/watch?v=D2B3YI_d6HA)
+[How to stop using Vim like a pig](https://www.youtube.com/watch?v=D2B3YI_d6HA)  
+[How to do 90% of what plugins do (with just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM&t=3s)
 
