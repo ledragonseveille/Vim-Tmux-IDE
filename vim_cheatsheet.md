@@ -4,11 +4,19 @@
 
 `:so %` source the file currently edited (for example, .vimrc)  
 `:set rtp?` display paths used by Vim (~/.vim, etc.)  
-`:ls` list buffers loaded in memory  
 `:his` list the command history  
 `:his /` list the search history  
 `:set list` display special characters (tab, EOL, etc.)  
 `:set list!` stop displaying special characters  
+
+#### Buffers
+
+Vim allows us to work with multiple buffers simultaneously.
+
+`:ls` list buffers loaded in memory  
+`:bnext` or `:bn` jump to next buffer  
+`:bprev` or `:bp` jump to previous buffer  
+`:b<num>` jump to buffer <num>
 
 ## Tabs
 
