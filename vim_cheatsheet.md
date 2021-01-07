@@ -9,6 +9,13 @@
 `:set list` display special characters (tab, EOL, etc.)  
 `:set list!` stop displaying special characters  
 
+#### Substitution
+
+`:s/foo/bar/g` find each occurrence of 'foo' in the current line only, and replace it with 'bar'  
+`:%s/foo/bar/g` find each occurrence of 'foo' in all lines, and replace it with 'bar'  
+`:%s/foo/bar/gc` change each 'foo' to 'bar', but ask for confirmation first  
+`:%s/\<foo\>/bar/g` change only whole words exactly matching 'foo' to 'bar'  
+
 #### Buffers
 
 Vim allows us to work with multiple buffers simultaneously.
