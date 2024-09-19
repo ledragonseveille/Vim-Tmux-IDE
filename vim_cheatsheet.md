@@ -52,13 +52,19 @@ Workflow:
 
 ## Misc
 
-When you need to return temporarily to the shell when editing a file, instead of exiting vim, just do `CTRL+z` (in command mode), then `fg` when you want to go back into vim! :-)
+* When you need to return temporarily to the shell when editing a file, instead of exiting vim, just do `CTRL+z` (in command mode), then `fg` when you want to go back into vim! :-)
+* Press `*` to search the file for the current word that the cursor is currntly placed on
+* In edit mode, type the first letters of a word then `CTRL+n` to have all completion possibilities (based on words already present in the file)
 
 ## Resources
 
 ### Web sites
 
 [Vi improved](https://www.vi-improved.org)
+
+### PDF files
+
+[Byte of Vim](https://vim.swaroopch.com/byte-of-vim.pdf)
 
 ### Videos
 
